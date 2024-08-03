@@ -30,3 +30,7 @@ class Person {
 // );
 
 // Jane.introduce()
+
+// module.exports = {
+//     Person
+// }
